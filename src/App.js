@@ -23,7 +23,7 @@ function App() {
       />
       <FriendList>
         <FriendListItem
-          friends={friends}
+          friends={friends777}
         />
       </FriendList>
     </>
