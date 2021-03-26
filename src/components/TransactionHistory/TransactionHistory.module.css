@@ -1,0 +1,39 @@
+.transactionHistory {
+  width: 600px;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.tableHeaderRow {
+  height: 60px;
+}
+
+.tableHeaderLine {
+  width: 120px;
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.transactionHistory thead {
+  background-color: rgb(0, 110, 255);
+}
+
+.transactionHistory tbody {
+  text-align: center;
+}
+
+.transactionHistory tbody td {
+  text-align: center;
+  padding: 10px;
+}
+
+.tableBodyRow {
+  color: rgb(0, 95, 95);
+}
+
+.tableBodyRow:nth-child(even) {
+  background-color: rgba(194, 204, 204, 0.5);
+}
